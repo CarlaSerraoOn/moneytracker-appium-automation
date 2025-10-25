@@ -147,4 +147,4 @@ TC21	       Acessar tela Report e verificar totais 📊	          ❌
 📌 Carla Oliveira
 📧 carla.suporteam@gmail.com
 
-💼 Portfólio: https://www.linkedin.com/in/carlaserraooli-qa/
+💼 LinkedIn https://www.linkedin.com/in/carlaserraooli-qa/
