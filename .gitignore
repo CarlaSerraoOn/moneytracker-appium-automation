@@ -1,0 +1,24 @@
+# Ambientes virtuais
+venv/
+.env/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Relatórios e pastas geradas
+reports/
+*.html
+*.xml
+
+# Configurações do Android
+*.iml
+.idea/
+.gradle/
+
+# Arquivos do Appium ou APK
+*.apk
+appium.log
+
+# Arquivos do sistema
+.DS_Store
